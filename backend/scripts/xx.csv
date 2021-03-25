@@ -1,0 +1,33 @@
+111,Kas 
+112,Piutang
+113,Perlengkapan 
+114,Surat-Surat berharga 
+115,Iklan dibayar dimuka 
+116,Sewa dibayar dimuka 
+121,Tanah 
+122,Peralatan 
+123,Akumulasi penyusutan peralatan 
+124,Gedung 
+125,Akumulasi penyusutan gedung 
+131,Investasi dalam saham 
+132,Investasi dalam obligasi 
+141,Goodwill 
+142,Hak paten 
+143,Hak cipta 
+144,Hak merek 
+211,Utang usaha 
+212,Utang gaji 
+213,Utang pajak 
+214,Utang bunga 
+215,Asuransi diterima dimuka 
+216,Sewa diterima dimuka 
+221,Utang obligasi 
+222,Utang hipotik 
+311,Modal pemilik 
+312,Prive pemilik 
+411,Pendapatan jasa/usaha 
+412,Pendapatan lain-lain 
+511,Beban gaji 
+512,"Beban air, listrik, dan telepon "
+513,Beban pajak 
+514,Beban bunga
